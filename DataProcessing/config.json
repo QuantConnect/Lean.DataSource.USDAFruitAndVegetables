@@ -1,0 +1,11 @@
+{
+  "temp-output-directory": "./output",
+  "process-start-date": "20130101",
+  "process-end-date": "20230101",
+  "http-timeout-seconds": 120,
+  "max-retries": 5,
+  "rate-limit-requests": 10,
+  "rate-limit-seconds": 1.1,
+  "usda-fruitandvegetables-max-xlsx-downloads": 0,
+  "normalize-cup-equivalent-unit": true
+}

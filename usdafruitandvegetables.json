@@ -1,0 +1,58 @@
+{
+    "vendorName": "USDA",
+    "datasetName": "FruitAndVegetables",
+    "dataSourceId": 0,
+    "className": "USDAFruitAndVegetables",
+    "description": "USDA ERS retail price estimates for 150+ commonly consumed fresh and  processed fruits and vegetables. Includes price per pound/pint and  normalized price per edible cup equivalent.",
+    "dataModel": "single",
+    "dataFormat": "csv",
+    "resolution": "Daily",
+    "timezone": "Utc",
+    "requiresMapping": false,
+    "isSparseData": true,
+    "properties": [
+        {
+            "name": "AverageRetailPrice",
+            "type": "decimal",
+            "description": "Average retail price per unit (pound or pint)",
+            "jsonProperty": "averageretailprice",
+            "csvIndex": 1
+        },
+        {
+            "name": "Unit",
+            "type": "PriceUnit",
+            "description": "Unit of measure - PerPound (solids) or PerPint (juice)",
+            "jsonProperty": "unit",
+            "csvIndex": 2
+        },
+        {
+            "name": "PreparationYieldFactor",
+            "type": "decimal",
+            "description": "Fraction of product that is edible after preparation (0.0-1.0)",
+            "jsonProperty": "preparationyieldfactor",
+            "csvIndex": 3
+        },
+        {
+            "name": "CupEquivalentSize",
+            "type": "decimal",
+            "description": "Size of one edible cup equivalent",
+            "jsonProperty": "cupequivalentsize",
+            "csvIndex": 4
+        },
+        {
+            "name": "CupEquivalentUnit",
+            "type": "CupEquivalentUnit",
+            "description": "Unit of measure for CupEquivalentSize",
+            "jsonProperty": "cupequivalentunit",
+            "csvIndex": 5
+        },
+        {
+            "name": "PricePerCupEquivalent",
+            "type": "decimal",
+            "description": "Normalized price per edible cup equivalent (comparable across forms)",
+            "jsonProperty": "pricepercupequivalent",
+            "csvIndex": 6,
+            "isValue": true
+        }
+    ]
+}

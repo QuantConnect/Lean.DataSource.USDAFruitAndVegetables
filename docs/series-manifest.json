@@ -1,0 +1,1339 @@
+[
+  {
+    "seriesCode": "acorn_squash_fresh",
+    "productName": "Acorn squash",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "apples_applesauce",
+    "productName": "Apples",
+    "form": "Applesauce",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "apples_fresh",
+    "productName": "Apples",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "apples_juice_frozen",
+    "productName": "Apples",
+    "form": "Juice, Frozen",
+    "unit": "per_pint",
+    "cupEquivalentUnit": "pints"
+  },
+  {
+    "seriesCode": "apples_juice_ready_to_drink",
+    "productName": "Apples",
+    "form": "Juice, Ready to drink",
+    "unit": "per_pint",
+    "cupEquivalentUnit": "pints"
+  },
+  {
+    "seriesCode": "apricots_canned_dried",
+    "productName": "Apricots",
+    "form": "Canned, Dried",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "apricots_canned_packed_in_juice",
+    "productName": "Apricots",
+    "form": "Canned, Packed in juice",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "apricots_canned_packed_in_syrup_or_water",
+    "productName": "Apricots",
+    "form": "Canned, Packed in syrup or water",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "apricots_canned_packed_in_syrup_syrup_discarded",
+    "productName": "Apricots",
+    "form": "Canned, Packed in syrup, Syrup discarded",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "apricots_dried",
+    "productName": "Apricots",
+    "form": "Dried",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "apricots_fresh",
+    "productName": "Apricots",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "artichoke_canned",
+    "productName": "Artichoke",
+    "form": "Canned",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "artichoke_fresh",
+    "productName": "Artichoke",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "artichoke_frozen",
+    "productName": "Artichoke",
+    "form": "Frozen",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "asparagus_canned",
+    "productName": "Asparagus",
+    "form": "Canned",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "asparagus_fresh",
+    "productName": "Asparagus",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "asparagus_frozen",
+    "productName": "Asparagus",
+    "form": "Frozen",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "avocados_fresh",
+    "productName": "Avocados",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "bananas_fresh",
+    "productName": "Bananas",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "beets_canned",
+    "productName": "Beets",
+    "form": "Canned",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "black_beans_canned",
+    "productName": "Black beans",
+    "form": "Canned",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "black_beans_dried",
+    "productName": "Black beans",
+    "form": "Dried",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "blackberries_fresh",
+    "productName": "Blackberries",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "blackberries_frozen",
+    "productName": "Blackberries",
+    "form": "Frozen",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "blackeye_peas_canned",
+    "productName": "Blackeye peas",
+    "form": "Canned",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "blackeye_peas_dried",
+    "productName": "Blackeye peas",
+    "form": "Dried",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "blueberries_fresh",
+    "productName": "Blueberries",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "blueberries_frozen",
+    "productName": "Blueberries",
+    "form": "Frozen",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "broccoli_fresh_florets",
+    "productName": "Broccoli",
+    "form": "Fresh, Florets",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "broccoli_fresh_frozen",
+    "productName": "Broccoli",
+    "form": "Fresh, Frozen",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "broccoli_fresh_heads",
+    "productName": "Broccoli",
+    "form": "Fresh, Heads",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "broccoli_frozen",
+    "productName": "Broccoli",
+    "form": "Frozen",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "brussels_sprouts_fresh",
+    "productName": "Brussels sprouts",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "brussels_sprouts_frozen",
+    "productName": "Brussels sprouts",
+    "form": "Frozen",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "butternut_squash_fresh",
+    "productName": "Butternut squash",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "cabbage_fresh_green_cabbage",
+    "productName": "Cabbage",
+    "form": "Fresh green cabbage",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "cabbage_fresh_red_cabbage",
+    "productName": "Cabbage",
+    "form": "Fresh red cabbage",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "cabbage_sauerkraut",
+    "productName": "Cabbage",
+    "form": "Sauerkraut",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "cantaloupe_fresh",
+    "productName": "Cantaloupe",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "carrots_canned",
+    "productName": "Carrots",
+    "form": "Canned",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "carrots_fresh_canned",
+    "productName": "Carrots",
+    "form": "Fresh, Canned",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "carrots_fresh_cooked_whole",
+    "productName": "Carrots",
+    "form": "Fresh, Cooked whole",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "carrots_fresh_frozen",
+    "productName": "Carrots",
+    "form": "Fresh, Frozen",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "carrots_fresh_raw_baby",
+    "productName": "Carrots",
+    "form": "Fresh, Raw baby",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "carrots_fresh_raw_whole",
+    "productName": "Carrots",
+    "form": "Fresh, Raw whole",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "carrots_frozen",
+    "productName": "Carrots",
+    "form": "Frozen",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "cauliflower_fresh_florets",
+    "productName": "Cauliflower",
+    "form": "Fresh, Florets",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "cauliflower_fresh_frozen",
+    "productName": "Cauliflower",
+    "form": "Fresh, Frozen",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "cauliflower_fresh_heads",
+    "productName": "Cauliflower",
+    "form": "Fresh, Heads",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "cauliflower_frozen",
+    "productName": "Cauliflower",
+    "form": "Frozen",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "celery_fresh_sticks",
+    "productName": "Celery",
+    "form": "Fresh, Sticks",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "celery_fresh_trimmed_bunches",
+    "productName": "Celery",
+    "form": "Fresh, Trimmed bunches",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "cherries_canned_packed_in_syrup_or_water",
+    "productName": "Cherries",
+    "form": "Canned, Packed in syrup or water",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "cherries_fresh",
+    "productName": "Cherries",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "clementines_fresh",
+    "productName": "Clementines",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "collard_greens_canned",
+    "productName": "Collard greens",
+    "form": "Canned",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "collard_greens_fresh",
+    "productName": "Collard greens",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "collard_greens_frozen",
+    "productName": "Collard greens",
+    "form": "Frozen",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "cranberries_dried",
+    "productName": "Cranberries",
+    "form": "Dried",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "cucumbers_fresh_consumed_with_peel",
+    "productName": "Cucumbers",
+    "form": "Fresh, Consumed with peel",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "cucumbers_fresh_peeled",
+    "productName": "Cucumbers",
+    "form": "Fresh, Peeled",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "dates_dried",
+    "productName": "Dates",
+    "form": "Dried",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "figs_dried",
+    "productName": "Figs",
+    "form": "Dried",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "fruit_cocktail_canned_in_juice",
+    "productName": "Fruit cocktail",
+    "form": "Canned, In juice",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "fruit_cocktail_canned_in_syrup_or_water",
+    "productName": "Fruit cocktail",
+    "form": "Canned, In syrup or water",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "fruit_cocktail_canned_packed_in_juice",
+    "productName": "Fruit cocktail",
+    "form": "Canned, Packed in juice",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "fruit_cocktail_canned_packed_in_syrup_or_water",
+    "productName": "Fruit cocktail",
+    "form": "Canned, Packed in syrup or water",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "grapefruit_fresh",
+    "productName": "Grapefruit",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "grapefruit_juice_frozen",
+    "productName": "Grapefruit",
+    "form": "Juice, Frozen",
+    "unit": "per_pint",
+    "cupEquivalentUnit": "pints"
+  },
+  {
+    "seriesCode": "grapefruit_juice_ready_to_drink",
+    "productName": "Grapefruit",
+    "form": "Juice, Ready to drink",
+    "unit": "per_pint",
+    "cupEquivalentUnit": "pints"
+  },
+  {
+    "seriesCode": "grapes_fresh",
+    "productName": "Grapes",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "grapes_juice_frozen",
+    "productName": "Grapes",
+    "form": "Juice, Frozen",
+    "unit": "per_pint",
+    "cupEquivalentUnit": "pints"
+  },
+  {
+    "seriesCode": "grapes_juice_ready_to_drink",
+    "productName": "Grapes",
+    "form": "Juice, Ready to drink",
+    "unit": "per_pint",
+    "cupEquivalentUnit": "pints"
+  },
+  {
+    "seriesCode": "grapes_raisins",
+    "productName": "Grapes",
+    "form": "Raisins",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "great_northern_beans_canned",
+    "productName": "Great northern beans",
+    "form": "Canned",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "great_northern_beans_dried",
+    "productName": "Great northern beans",
+    "form": "Dried",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "green_beans_canned",
+    "productName": "Green beans",
+    "form": "Canned",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "green_beans_fresh",
+    "productName": "Green beans",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "green_beans_frozen",
+    "productName": "Green beans",
+    "form": "Frozen",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "green_peas_canned",
+    "productName": "Green peas",
+    "form": "Canned",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "green_peas_frozen",
+    "productName": "Green peas",
+    "form": "Frozen",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "green_peppers_fresh",
+    "productName": "Green peppers",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "honeydew_melon_fresh",
+    "productName": "Honeydew melon",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "iceberg_lettuce_fresh",
+    "productName": "Iceberg lettuce",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "kale_canned",
+    "productName": "Kale",
+    "form": "Canned",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "kale_fresh",
+    "productName": "Kale",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "kale_frozen",
+    "productName": "Kale",
+    "form": "Frozen",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "kidney_beans_canned",
+    "productName": "Kidney beans",
+    "form": "Canned",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "kidney_beans_dried",
+    "productName": "Kidney beans",
+    "form": "Dried",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "kiwi_fresh",
+    "productName": "Kiwi",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "lentils_dried",
+    "productName": "Lentils",
+    "form": "Dried",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "lima_beans_canned",
+    "productName": "Lima beans",
+    "form": "Canned",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "lima_beans_dried",
+    "productName": "Lima beans",
+    "form": "Dried",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "lima_beans_frozen",
+    "productName": "Lima beans",
+    "form": "Frozen",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "mangoes_dried",
+    "productName": "Mangoes",
+    "form": "Dried",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "mangoes_fresh",
+    "productName": "Mangoes",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "mixed_berries_frozen",
+    "productName": "Mixed berries",
+    "form": "Frozen",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "mixed_vegetables_canned_peas_and_carrots",
+    "productName": "Mixed vegetables",
+    "form": "Canned, Peas and carrots",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "mixed_vegetables_frozen_broccoli_cauliflower_and_carrots",
+    "productName": "Mixed vegetables",
+    "form": "Frozen, Broccoli, Cauliflower, And carrots",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "mixed_vegetables_frozen_carrots_peas_corn_and_green_beans",
+    "productName": "Mixed vegetables",
+    "form": "Frozen, Carrots, Peas, Corn, And green beans",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "mixed_vegetables_frozen_peas_and_carrots",
+    "productName": "Mixed vegetables",
+    "form": "Frozen, Peas and carrots",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "mixed_vegetables_green_peas_carrots_canned",
+    "productName": "Mixed vegetables",
+    "form": "Green peas & carrots, Canned",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "mixed_vegetables_green_peas_carrots_frozen",
+    "productName": "Mixed vegetables",
+    "form": "Green peas & carrots, Frozen",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "mixed_vegetables_peas_carrots_canned",
+    "productName": "Mixed vegetables",
+    "form": "Peas & carrots, Canned",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "mixed_vegetables_peas_carrots_frozen",
+    "productName": "Mixed vegetables",
+    "form": "Peas & carrots, Frozen",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "mixed_vegetables_peas_carrots_frozen_broccoli_cauliflower_carrot",
+    "productName": "Mixed vegetables",
+    "form": "Peas & carrots, Frozen broccoli cauliflower carrot",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "mixed_vegetables_peas_carrots_frozen_carrot_pea_corn_green_bean",
+    "productName": "Mixed vegetables",
+    "form": "Peas & carrots, Frozen carrot pea corn green bean",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "mixed_vegetables_succotash_canned",
+    "productName": "Mixed vegetables",
+    "form": "Succotash, Canned",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "mixed_vegetables_succotash_frozen",
+    "productName": "Mixed vegetables",
+    "form": "Succotash, Frozen",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "mushrooms_fresh_sliced",
+    "productName": "Mushrooms",
+    "form": "Fresh, Sliced",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "mushrooms_fresh_whole",
+    "productName": "Mushrooms",
+    "form": "Fresh, Whole",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "mustard_greens_canned",
+    "productName": "Mustard greens",
+    "form": "Canned",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "mustard_greens_fresh",
+    "productName": "Mustard greens",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "mustard_greens_frozen",
+    "productName": "Mustard greens",
+    "form": "Frozen",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "navy_beans_canned",
+    "productName": "Navy beans",
+    "form": "Canned",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "navy_beans_dried",
+    "productName": "Navy beans",
+    "form": "Dried",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "nectarines_fresh",
+    "productName": "Nectarines",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "okra_fresh",
+    "productName": "Okra",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "okra_frozen",
+    "productName": "Okra",
+    "form": "Frozen",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "olives_canned",
+    "productName": "Olives",
+    "form": "Canned",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "onions_fresh",
+    "productName": "Onions",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "oranges_fresh",
+    "productName": "Oranges",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "oranges_juice_frozen",
+    "productName": "Oranges",
+    "form": "Juice, Frozen",
+    "unit": "per_pint",
+    "cupEquivalentUnit": "pints"
+  },
+  {
+    "seriesCode": "oranges_juice_ready_to_drink",
+    "productName": "Oranges",
+    "form": "Juice, Ready to drink",
+    "unit": "per_pint",
+    "cupEquivalentUnit": "pints"
+  },
+  {
+    "seriesCode": "papaya_dried",
+    "productName": "Papaya",
+    "form": "Dried",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "papaya_fresh",
+    "productName": "Papaya",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "peaches_canned_frozen",
+    "productName": "Peaches",
+    "form": "Canned, Frozen",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "peaches_canned_in_juice",
+    "productName": "Peaches",
+    "form": "Canned, In juice",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "peaches_canned_in_syrup_or_water",
+    "productName": "Peaches",
+    "form": "Canned, In syrup or water",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "peaches_canned_packed_in_juice",
+    "productName": "Peaches",
+    "form": "Canned, Packed in juice",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "peaches_canned_packed_in_syrup_or_water",
+    "productName": "Peaches",
+    "form": "Canned, Packed in syrup or water",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "peaches_fresh",
+    "productName": "Peaches",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "peaches_frozen",
+    "productName": "Peaches",
+    "form": "Frozen",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "pears_canned_in_juice",
+    "productName": "Pears",
+    "form": "Canned, In juice",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "pears_canned_in_syrup_or_water",
+    "productName": "Pears",
+    "form": "Canned, In syrup or water",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "pears_canned_packed_in_juice",
+    "productName": "Pears",
+    "form": "Canned, Packed in juice",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "pears_canned_packed_in_syrup_or_water",
+    "productName": "Pears",
+    "form": "Canned, Packed in syrup or water",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "pears_fresh",
+    "productName": "Pears",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "pineapple_canned_dried",
+    "productName": "Pineapple",
+    "form": "Canned, Dried",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "pineapple_canned_in_juice",
+    "productName": "Pineapple",
+    "form": "Canned, In juice",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "pineapple_canned_in_syrup_or_water",
+    "productName": "Pineapple",
+    "form": "Canned, In syrup or water",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "pineapple_canned_packed_in_juice",
+    "productName": "Pineapple",
+    "form": "Canned, Packed in juice",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "pineapple_canned_packed_in_syrup_or_water",
+    "productName": "Pineapple",
+    "form": "Canned, Packed in syrup or water",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "pineapple_dried",
+    "productName": "Pineapple",
+    "form": "Dried",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "pineapple_fresh",
+    "productName": "Pineapple",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "pineapple_juice_frozen",
+    "productName": "Pineapple",
+    "form": "Juice, Frozen",
+    "unit": "per_pint",
+    "cupEquivalentUnit": "pints"
+  },
+  {
+    "seriesCode": "pineapple_juice_ready_to_drink",
+    "productName": "Pineapple",
+    "form": "Juice, Ready to drink",
+    "unit": "per_pint",
+    "cupEquivalentUnit": "pints"
+  },
+  {
+    "seriesCode": "pinto_beans_canned",
+    "productName": "Pinto beans",
+    "form": "Canned",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "pinto_beans_dried",
+    "productName": "Pinto beans",
+    "form": "Dried",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "plums_dried_prunes",
+    "productName": "Plums",
+    "form": "Dried (Prunes)",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "plums_fresh",
+    "productName": "Plums",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "plums_juice_prune_ready_to_drink",
+    "productName": "Plums",
+    "form": "Juice (Prune), Ready to drink",
+    "unit": "per_pint",
+    "cupEquivalentUnit": "pints"
+  },
+  {
+    "seriesCode": "plums_juice_ready_to_drink",
+    "productName": "Plums",
+    "form": "Juice, Ready to drink",
+    "unit": "per_pint",
+    "cupEquivalentUnit": "pints"
+  },
+  {
+    "seriesCode": "pomegranate_fresh",
+    "productName": "Pomegranate",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "pomegranate_juice_ready_to_drink",
+    "productName": "Pomegranate",
+    "form": "Juice, Ready to drink",
+    "unit": "per_pint",
+    "cupEquivalentUnit": "pints"
+  },
+  {
+    "seriesCode": "potatoes_canned",
+    "productName": "Potatoes",
+    "form": "Canned",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "potatoes_fresh",
+    "productName": "Potatoes",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "potatoes_frozen_french_fries",
+    "productName": "Potatoes",
+    "form": "Frozen french fries",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "pumpkin_canned",
+    "productName": "Pumpkin",
+    "form": "Canned",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "radish_fresh",
+    "productName": "Radish",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "raspberries_fresh",
+    "productName": "Raspberries",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "raspberries_frozen",
+    "productName": "Raspberries",
+    "form": "Frozen",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "red_peppers_fresh",
+    "productName": "Red peppers",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "romaine_lettuce_fresh_full_heads",
+    "productName": "Romaine lettuce",
+    "form": "Fresh, Full heads",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "romaine_lettuce_fresh_hearts",
+    "productName": "Romaine lettuce",
+    "form": "Fresh, Hearts",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "spinach_canned",
+    "productName": "Spinach",
+    "form": "Canned",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "spinach_fresh_boiled",
+    "productName": "Spinach",
+    "form": "Fresh, Boiled",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "spinach_fresh_canned",
+    "productName": "Spinach",
+    "form": "Fresh, Canned",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "spinach_fresh_frozen",
+    "productName": "Spinach",
+    "form": "Fresh, Frozen",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "spinach_fresh_raw",
+    "productName": "Spinach",
+    "form": "Fresh, Raw",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "spinach_frozen",
+    "productName": "Spinach",
+    "form": "Frozen",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "strawberries_fresh",
+    "productName": "Strawberries",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "strawberries_frozen",
+    "productName": "Strawberries",
+    "form": "Frozen",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "summer_squash_fresh",
+    "productName": "Summer squash",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "sweet_corn_canned",
+    "productName": "Sweet corn",
+    "form": "Canned",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "sweet_corn_fresh",
+    "productName": "Sweet corn",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "sweet_corn_frozen",
+    "productName": "Sweet corn",
+    "form": "Frozen",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "sweet_potatoes_fresh",
+    "productName": "Sweet potatoes",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "tangerines_fresh",
+    "productName": "Tangerines",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "tomatoes_canned",
+    "productName": "Tomatoes",
+    "form": "Canned",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "tomatoes_fresh_beefsteak",
+    "productName": "Tomatoes",
+    "form": "Fresh, Beefsteak",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "tomatoes_fresh_canned",
+    "productName": "Tomatoes",
+    "form": "Fresh, Canned",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "tomatoes_fresh_grape_and_cherry",
+    "productName": "Tomatoes",
+    "form": "Fresh, Grape and cherry",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "tomatoes_fresh_large_round",
+    "productName": "Tomatoes",
+    "form": "Fresh, Large round",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "tomatoes_fresh_roma",
+    "productName": "Tomatoes",
+    "form": "Fresh, Roma",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "tomatoes_fresh_roma_and_plum",
+    "productName": "Tomatoes",
+    "form": "Fresh, Roma and plum",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "turnip_greens_canned",
+    "productName": "Turnip greens",
+    "form": "Canned",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "turnip_greens_fresh",
+    "productName": "Turnip greens",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "turnip_greens_frozen",
+    "productName": "Turnip greens",
+    "form": "Frozen",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "watermelon_fresh",
+    "productName": "Watermelon",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  },
+  {
+    "seriesCode": "zucchini_fresh",
+    "productName": "Zucchini",
+    "form": "Fresh",
+    "unit": "per_pound",
+    "cupEquivalentUnit": "pounds"
+  }
+]

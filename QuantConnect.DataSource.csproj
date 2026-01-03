@@ -1,0 +1,35 @@
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>net10.0</TargetFramework>
+        <LangVersion>13</LangVersion>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <OutputType>Library</OutputType>
+        <RootNamespace>QuantConnect.DataSource</RootNamespace>
+        <AssemblyName>QuantConnect.DataSource.USDAFruitAndVegetables</AssemblyName>
+        <Description>USDA ERS retail price estimates for 150+ commonly consumed fresh and  processed fruits and vegetables. Includes price per pound/pint and  normalized price per edible cup equivalent.
+</Description>
+        <Authors>QuantConnect</Authors>
+        <Version>1.0.0</Version>
+        <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+        <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+        <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+        <GenerateBindingRedirectsOutputType>true</GenerateBindingRedirectsOutputType>
+        <PathMap>$(MSBuildProjectDirectory)=.</PathMap>
+        <NoWarn>CA2007</NoWarn>
+        <WarningsNotAsErrors>$(WarningsNotAsErrors);NU1902;NU1903;NU1904</WarningsNotAsErrors>
+        <OutputPath>bin/$(Configuration)/</OutputPath>
+        <WarningLevel>4</WarningLevel>
+        <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    </PropertyGroup>
+    <ItemGroup>
+        <Compile Remove="DataProcessing/**/*.cs"/>
+        <Compile Remove="tests/**/*.cs"/>
+        <Compile Remove="DataQueueHandlers/**/*.cs"/>
+    </ItemGroup>
+    <ItemGroup>
+        <PackageReference Include="QuantConnect.Common" Version="2.5.*"/>
+        <PackageReference Include="QuantConnect.Lean.Engine" Version="2.5.*"/>
+        <PackageReference Include="QuantConnect.Algorithm" Version="2.5.*"/>
+    </ItemGroup>
+</Project>

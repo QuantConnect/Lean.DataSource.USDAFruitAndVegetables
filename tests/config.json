@@ -1,0 +1,11 @@
+{
+    "environment": "{}",
+    "data-folder": "../output/",
+    "log-handler": "ConsoleLogHandler",
+    "usda-api-key": "",
+    "lean-data-folder-configured": false,
+    "job-user-id": "0",
+    "api-access-token": "",
+    "job-organization-id": "",
+    "cloud-api-url": "https://www.quantconnect.com/api/v2/"
+}

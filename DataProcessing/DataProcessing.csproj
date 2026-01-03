@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <OutputType>Exe</OutputType>
+    <LangVersion>13</LangVersion>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>QuantConnect.DataProcessing</RootNamespace>
+    <AssemblyName>QuantConnect.DataProcessing.USDAFruitAndVegetables</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="**/*.py" />
+    <Content Include="**/*.py">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>
