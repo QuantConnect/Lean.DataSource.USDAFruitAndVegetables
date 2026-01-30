@@ -36,13 +36,6 @@ namespace QuantConnect.DataSource
     public partial class USDAFruitAndVegetable : BaseData
     {
         /// <summary>
-        /// Data source ID for USDA FruitAndVegetables
-        /// </summary>
-        public static int DataSourceId { get; }
-
-
-
-        /// <summary>
         /// Product form identifier (e.g., "Fresh", "Canned", "Fresh - Florets").
         /// </summary>
         public string Form { get; set; } = string.Empty;
